@@ -1,0 +1,146 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+section{
+    height: 600px;
+}
+.top-banner{  
+    background-image: url(../img/header-bg.png);
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 7%;
+    
+}
+.half-width img{
+    width: 119%;
+    margin-top: -224px;
+}
+.half-width h1{
+    font-size: 30px;
+    font-weight: normal;
+}
+.half-width h2{
+    font-size: 45px;
+    margin-top: -15px;
+    margin-bottom: -5px;
+
+}
+.text-highlight{
+    color:#EC4C7A ;
+}
+
+.half-width p{
+    color: dimgrey;
+}
+
+.half-width a{
+    background-image: linear-gradient(45deg,#EC5197,#ED4B6F );
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    padding:  5px 20px;
+}
+
+.Biography{
+    background-image: url(../img/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+    
+}
+
+.latest-work-highlight{
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.bio-position{
+    margin-top: 10%;
+}
+
+.latest-work-img img{
+    float: left;
+    width: 33.3%;
+}
+.latest-work-img{
+    
+    width: 85%;
+    margin: 70Px auto;
+} 
+
+.latest-work{
+    background-image: url(../img/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.footer-container{
+    text-align: center;
+}
+
+.footer-container h1 {
+    font-size: 30px;
+    font-weight: normal;
+}
+.footer-container h3{
+    font-weight: normal;
+    margin-top: 55px;
+}
+.mail-highlight{
+    font-size: 20px;
+}
+
+.footer-container p:nth-child(4){
+   margin-bottom: 70px;
+}
+
+.footer-container p:nth-child(5) {
+    font-size: 10px;
+    background-image: linear-gradient(45deg, #EC5299, #ED4B6D);
+    padding: 55px 120px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    display: table;
+    margin: auto;
+    color: white;
+}
+.mail-highlight a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px 0px;
+}
+.footer{
+    background-image: url(../img/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.footer-container p:nth-child(3){
+    color: #999999;
+    margin-top: -20px;
+    font-size: 10px;
+}
+.footer-container-simple-text{
+    width: 30%;
+    margin: auto;
+}
+.footer-container-simple-text P{
+    color: dimgray;
+    text-align: justify;
+    margin: 50px 90px;
+}
+footer{
+    text-align: center  ;
+    font-size: 10px;
+}
+
